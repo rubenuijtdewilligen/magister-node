@@ -1,0 +1,27 @@
+{
+  "name": "magister-node",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Magister API client for Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubenuijtdewilligen/magister-node.git"
+  },
+  "keywords": [
+    "magister"
+  ],
+  "author": "Ruben Uijtdewilligen <ruben@uijtdewilligenbv.nl>",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rubenuijtdewilligen/magister-node/issues"
+  },
+  "homepage": "https://magister-node.rbnu.nl",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "magister-openid": "^0.1.7"
+  }
+}
