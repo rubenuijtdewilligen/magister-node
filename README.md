@@ -1,3 +1,3 @@
-# 📚 magister-node
+# 📚 Magister API Client (Node.js) - Archived
 
-Magister API client voor Node.js. Je hebt hier vooral helemaal niets aan omdat [MagisterJS](https://github.com/simplyGits/MagisterJS) al bestaat. Ik maak dit vooral om de Magister API beter te leren kennen.
+> ⚠️ **Note:** This is an archived project. It only shows how to log into the undocumented Magister 6 API. For a more complete version, see [simplyGits/MagisterJS](https://github.com/simplyGits/MagisterJS).
